@@ -1,0 +1,5 @@
+{
+  "id": "AWS-Cloud9-001",
+  "configuration": "file:///home/ec2-user/environment/.c9",
+  "name": "AWS-Cloud9-001"
+}
